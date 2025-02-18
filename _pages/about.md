@@ -1,17 +1,14 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-An edit has been made!
+Mabuhay! 👋 
+  
+I'm a PhD student at [MBZUAI](https://mbzuai.ac.ae) supervised by [Dr. Alham Fikri Aji](https://afaji.github.io) and [Prof. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/) specializing in problems at the intersection of *Multilinguality* and *Low-resource Languages*.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Particularly, I am interested in understanding the behavior of models when constrained under low-resource multilingual domains. I've collaborated with many talented colleagues on various topics under this umbrella, including:
+* **Code Switching** -- Multilingual speakers naturally [code-switch](https://en.wikipedia.org/wiki/Code-switching) in two or more languages when speaking to peers, but multilingual models are still lacking in capabilities to [understand](https://aclanthology.org/2023.emnlp-main.774/) and [execute](https://aclanthology.org/2023.calcs-1.5/) this phenomenon.
+* **Resources & Evaluation** -- More data is often the best remedy to "very little data". In addition to working on [Filipino](https://huggingface.co/jcblaise) resources, I have also done work for [Southeast Asian Languages](https://arxiv.org/abs/2406.10118) and [beyond](https://arxiv.org/abs/2406.05967).
+* **Applications in Low-resource** -- Employing creative techniques to improve performance in tasks such as [Multilingual Translation](https://aclanthology.org/2021.wmt-1.52/), [Question Generation](https://arxiv.org/abs/2005.01107), [Fake News Detection](https://aclanthology.org/2020.lrec-1.316/), and more -- all constrained under low-resource settings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my PhD, I was Lead Research Engineer at [Samsung Research](https://research.samsung.com) in the Philippines where I worked on low-resource machine translation and dialogue generation. I have also been previously affiliated with the [University of the Philippines](https://eee.upd.edu.ph/), [De La Salle University](https://www.dlsu.edu.ph/research/research-centers/adric/celt/), and [Senti AI](https://senti.ai).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you're interested in collaborating or if you want to chat about low-resource languages, feel free to get in touch! You may reach me through my email `me (at) blaisecruz (dot) com`.
