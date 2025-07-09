@@ -81,12 +81,13 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-proud-to-release-sea-vl-a-multicultural-vision-language-dataset-for-southeast-asia",
           title: 'We are proud to release SEA-VL, a multicultural vision-language dataset for Southeast Asia!...',
           description: "",
-          section: "News",},{id: "projects-vancouver",
-          title: 'Vancouver 🇨🇦',
-          description: "December 2024",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{
+          section: "News",},{id: "news-world-cuisines-wins-best-theme-paper-at-naacl-2025",
+          title: 'World Cuisines wins Best Theme Paper at NAACL 2025!',
+          description: "",
+          section: "News",},{id: "news-sea-vl-is-accepted-at-acl-2025",
+          title: 'SEA-VL is accepted at ACL 2025!',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
