@@ -87,6 +87,9 @@ ninja.data = [{
           section: "News",},{id: "news-sea-vl-is-accepted-at-acl-2025",
           title: 'SEA-VL is accepted at ACL 2025!',
           description: "",
+          section: "News",},{id: "news-we-re-excited-to-announce-moments-a-new-comprehensive-multimodal-benchmark-for-theory-of-mind-in-large-language-models",
+          title: 'We’re excited to announce MoMentS, a new comprehensive multimodal benchmark for theory of...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
