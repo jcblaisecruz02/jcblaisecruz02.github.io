@@ -18,8 +18,7 @@ Follow my Instagram [@jcblaisecruz](https://instagram.com/jcblaisecruz) for more
 <br>
 
 # Wherever, Whenever, ...
-
-I've been traveling a lot given the nature of my work, and in my travels I've always loved photographing how people connect with other people. It's pretty amazing to see that no matter where we are, no matter what language we speak, human connection is the one constant that never changes.
+Documenting human connection.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
