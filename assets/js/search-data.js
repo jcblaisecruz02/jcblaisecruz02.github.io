@@ -90,6 +90,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-re-excited-to-announce-moments-a-new-comprehensive-multimodal-benchmark-for-theory-of-mind-in-large-language-models",
           title: 'We’re excited to announce MoMentS, a new comprehensive multimodal benchmark for theory of...',
           description: "",
+          section: "News",},{id: "news-we-re-proud-to-release-filbench-the-first-open-llm-evaluation-suite-and-leaderboard-for-filipino",
+          title: 'We’re proud to release FilBench, the first Open LLM Evaluation Suite and Leaderboard...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
