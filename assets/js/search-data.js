@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Street and Travel Gallery",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/photography/";
+            window.location.href = "/https:/gallery.blaisecruz.com";
           },
         },{id: "nav-cv",
           title: "CV",
