@@ -96,6 +96,9 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-accepted-for-emnlp-2025",
           title: 'Three papers accepted for EMNLP 2025!',
           description: "",
+          section: "News",},{id: "news-proud-to-release-my-new-work-multilinguality-as-sense-adaptation-many-thanks-to-mila-quebec-ai-institute-and-mcgill-nlp-for-hosting-me-in-montréal-and-making-the-work-possible",
+          title: 'Proud to release my new work, Multilinguality as Sense Adaptation! Many thanks to...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
