@@ -99,6 +99,9 @@ ninja.data = [{
           section: "News",},{id: "news-proud-to-release-my-new-work-multilinguality-as-sense-adaptation-many-thanks-to-mila-quebec-ai-institute-and-mcgill-nlp-for-hosting-me-in-montréal-and-making-the-work-possible",
           title: 'Proud to release my new work, Multilinguality as Sense Adaptation! Many thanks to...',
           description: "",
+          section: "News",},{id: "news-our-new-paper-on-algorithm-focused-benchmarking-for-competitive-programming-idea-first-code-later-is-finally-out",
+          title: 'Our new paper on algorithm-focused benchmarking for competitive programming, Idea First, Code Later,...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
