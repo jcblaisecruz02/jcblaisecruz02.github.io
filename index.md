@@ -15,7 +15,7 @@ title: Home
     <p class="kicker">Mabuhay!</p>
 
     <p class="lead">
-      I'm a PhD student at <a href="https://mbzuai.ac.ae" target="_blank" rel="noreferrer">MBZUAI</a> supervised by <a href="https://afaji.github.io" target="_blank" rel="noreferrer">Dr. Alham Fikri Aji</a>, working at the intersection of lexical semantics and multilinguality. My thesis centers on multilingual models that 
+      I'm a PhD candidate at <a href="https://mbzuai.ac.ae" target="_blank" rel="noreferrer">MBZUAI</a> supervised by <a href="https://afaji.github.io" target="_blank" rel="noreferrer">Dr. Alham Fikri Aji</a>, working at the intersection of lexical semantics and multilinguality. My thesis centers on multilingual models that 
       <span class="fn-ref" data-explainer="anchor-senses">
         anchor on word senses
       </span> 
@@ -31,6 +31,10 @@ title: Home
 
     <p class="lead">
       Prior to my PhD, I was Lead Research Engineer at <a href="https://research.samsung.com" target="_blank" rel="noreferrer">Samsung Research</a> where I headed teams working on dialogue systems used by 5M+ customers worldwide. Further previous affiliations include <a href="https://mila.quebec" target="_blank" rel="noreferrer">Mila</a>, <a href="https://mcgill-nlp.github.io/" target="_blank" rel="noreferrer">McGill University</a>, and <span class="fn-ref" data-explainer="more">more</span>.
+    </p>
+
+    <p class="lead">
+      I'm currently based in Singapore as a Visiting Scholar at the <a href="https://www.comp.nus.edu.sg/" target="_blank" rel="noreferrer">National University of Singapore</a> hosted by <a href="https://www.comp.nus.edu.sg/~nght/" target="_blank" rel="noreferrer">Prof. Hwee Tou Ng</a>.
     </p>
 
     <section class="news-box" aria-labelledby="news-title">
